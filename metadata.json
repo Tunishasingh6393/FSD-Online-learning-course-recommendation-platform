@@ -1,0 +1,6 @@
+{
+  "name": "Online Learning & Course Recommendation Platform",
+  "description": "An interactive learning management system featuring content-based, collaborative filtering, and skill-gap recommendation models with automated quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
